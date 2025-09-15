@@ -1,0 +1,9 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="0" y="0" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <circle cx="30" cy="30" r="26" fill="#fff" filter="url(#shadow)"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="#00796b">TG</text>
+</svg>
